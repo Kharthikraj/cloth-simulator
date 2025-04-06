@@ -1,0 +1,4 @@
+cd build
+./app
+cd ..
+

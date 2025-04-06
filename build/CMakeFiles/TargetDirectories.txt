@@ -1,0 +1,3 @@
+/Users/kharthikraj/Documents/proj/sim/cloth/build/CMakeFiles/app.dir
+/Users/kharthikraj/Documents/proj/sim/cloth/build/CMakeFiles/edit_cache.dir
+/Users/kharthikraj/Documents/proj/sim/cloth/build/CMakeFiles/rebuild_cache.dir
